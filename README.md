@@ -14,13 +14,13 @@
 - 📫 How to reach me **sonihimanshu060@gmail.com**
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihimanshusoni&label=PROFILE+VIEWS" alt="Himanshu..." /> </p>
 <p>
-<a align= "centre" href="https://github.com/imhimanshusoni">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=imhimanshusoni&theme=radical">
+<a align= "centre" href="https://github.com/ihimanshusoni">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshusoni&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
          &nbsp;
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=imhimanshusoni&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ihimanshusoni&count_private=true&theme=radical&show_icons=true" />
 </p>
 
 
@@ -29,14 +29,6 @@
 <br><br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mhimanshusoni" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="imhimanshusoni" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/sonihimanshu060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonihimanshu060" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/imhimanshu1" target="blank"><img align="center" src="https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6--programming.jpg" alt="codechef" height="40" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/himanshu-soni-17620916a" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Himanshu Soni" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/sonihimanshu060/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="45" /></a>
-</p>
 
 <h3 align="center">⭐ Languages and Tools:</h3>
 <p align="center">
