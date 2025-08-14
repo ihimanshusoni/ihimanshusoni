@@ -80,5 +80,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/imhimanshusoni/imhimanshusoni/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/ihimanshusoni/ihimanshusoni/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
