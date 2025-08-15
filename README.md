@@ -66,14 +66,5 @@
 <a href="https://expressjs.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" width="40" height="40"/> 
 </a> &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="MongoDB" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
 
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github.com/ihimanshusoni/ihimanshusoni/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
