@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nsfxk6msyq52s50p4snafpezf6qzzkf82tcy7jw4&rid=giphy.gif&ct=g" width="230">
 
-- 🧑🏻‍💻 Software Engineer - 1 @ Habuild  
+- 🧑🏻‍💻 Software Engineer 1 @ Habuild  
 - 🎓 B.Tech CSE '24 Graduate!  
 - 🌱 I’m currently mastering my DSA skills  
 - 🤔 I’m looking for help with Data Structures and Algorithms  
